@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 22,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.html": "html",
+        "*.php": "php",
+        "*.css": "css",
+        "*.js": "js"
+    }
+}
